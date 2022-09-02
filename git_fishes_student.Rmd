@@ -207,6 +207,11 @@ This task involves creating and resolving conflicts. Conflicts in files are deno
 
 Resolving is easy. Decide on what changes you think are the best to proceed with and remove conflict markers. 
 
+```{r, answer7}
+## GitHub Desktop indicated that there was a conflicted file. When this was opened, the conflict was indicated in the format above. I decided that I liked my code changes better, so I deleted my partners code and the conflict markers. 
+```
+
+
 >**Stretch Task**: Try creating another conflict in the `collabFig` code chunk of the Rmarkdown file. Resolve the conflict again. More practice doing this is always good!
 
 Once you have figured out how to create and solve conflicts it's time to update the README file with a little more detail about your project and the general workflow. The *GitHub* webpage uses the README file as a sort of introduction to the project. 
