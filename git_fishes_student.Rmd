@@ -139,7 +139,7 @@ flextable(summary)
 >**Question 5**: The new version of your Rmarkdown file should now be up on *GitHub*. In the browser window click on your most recent commit. Have a look at the file versioning system. You will notice two files side-by-side. Describe what you notice is being presented online. What do the red and green highlights mean?
 
 ```{r answer5, echo=TRUE, eval=FALSE}
-## Write your answer here....remember to use '#" in front of your text.
+## The previous version of the Rmarkdown file is displayed on the left-hand side and the latest version is displayed on the right-hand side, with the lines visually matched up. The red highlights and green highlights indicate lines which have had changes made in them, with the red showing the previous version and the green showing the current version. 
 ```
 
 # **Task 5**
